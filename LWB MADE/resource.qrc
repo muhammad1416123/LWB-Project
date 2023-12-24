@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/Login.png</file>
+        <file>img/Canada.png</file>
+        <file>img/UK.png</file>
+        <file>img/USA.png</file>
+        <file>img/business.png</file>
+        <file>img/CS.png</file>
+        <file>img/Social Sciences.png</file>
+        <file>img/hand-drawn-back-school-background_23-2149464866.jpg</file>
+        <file>img/bristol uni uk.png</file>
+        <file>img/brunel-university-uk.png</file>
+        <file>img/the-university-of-south-wales-UK.png</file>
+        <file>img/westmier uni UK.png</file>
+        <file>img/university-of-glasgow-logo UK.png</file>
+        <file>img/illinois-institute-of-technology-logo-USA.gif</file>
+        <file>img/missospi USA.png</file>
+        <file>img/new york uni USA.png</file>
+        <file>img/uni of texas USA.jpeg</file>
+        <file>img/University_of_Washington USA.png</file>
+        <file>img/charles drwan uni AS.png</file>
+        <file>img/curtin uni AS.png</file>
+        <file>img/mcgill-university canada.jpg</file>
+        <file>img/newcastle-university AS.png</file>
+        <file>img/trent uni canada.png</file>
+        <file>img/tronto canada.png</file>
+        <file>img/uni of canberra AS.png</file>
+        <file>img/uni of tec sydny AS.jpg</file>
+        <file>img/uni of winnipeg canada.png</file>
+        <file>img/windsor uni canada.png</file>
+        <file>Personal/info1.txt</file>
+        <file>img/desktop-wallpaper-a-black-backgrounds-website-webpage.jpg</file>
+        <file>img/loganpage.jpg</file>
+        <file>img/lwb-high-resolution-logo-white.png</file>
+        <file>img/pngtree-science-or-technology-background-with-dynamic-particles-trendy-colorful-design-template-image_406781.jpg</file>
+        <file>img/profile-background.jpg</file>
+        <file>img/XZino7.jpg</file>
+    </qresource>
+</RCC>
